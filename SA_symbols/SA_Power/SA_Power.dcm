@@ -1,0 +1,74 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +18VDC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP +4.5VDC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP +9VDC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP +VDC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP GND
+D Power flag, reference supply ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_A
+D Power flag, reference supply ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_CHASSIS
+D Power flag, power ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_D
+D Power flag, analog ground
+K power-flag
+$ENDCMP
+#
+$CMP PWR_FLAG
+D Power flag, general
+K power-flag
+F ~
+$ENDCMP
+#
+$CMP VBIAS
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP VCC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP VREF
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP VREF_A
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+$CMP VREF_B
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
+#End Doc Library
