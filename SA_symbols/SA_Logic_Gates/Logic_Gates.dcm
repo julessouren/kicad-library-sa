@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP NL37WZ14USG
-D Triple NOT Gate Schmitt, Low-Voltage CMOS
-K Triple NOT Schmitt LVC CMOS
-F https://nl.mouser.com/datasheet/2/308/NL37WZ14-D-63685.pdf
-$ENDCMP
-#
-#End Doc Library
