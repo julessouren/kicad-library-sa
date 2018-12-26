@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_NL37WZ14USG
+D Triple Schmitt trigger inverter
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_SN74LVC3G14DCTR
+D Triple Schmitt trigger inverter
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+#End Doc Library
