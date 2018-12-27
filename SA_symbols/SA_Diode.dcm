@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ON_Semi_1N4148WS
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5918BT3G
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5924BT3G
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP ON_Semi_1SMA5931BT3G
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP Rectron_FM4007W-W
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP Rectron_FM5817-W
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP Rectron_FM5819-W
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library
