@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Nichicon_UWT_1.0uF_50V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_100uF_25V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_10uF_35V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_2.2uF_50V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_220uF_25V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_22uF_35V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_4.7uF_50V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_470uF_25V
+F ~
+$ENDCMP
+#
+$CMP Nichicon_UWT_47uF_35V
+F ~
+$ENDCMP
+#
+#End Doc Library
