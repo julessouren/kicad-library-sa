@@ -12,6 +12,12 @@ K PNP Transistor
 F http://www.fairchildsemi.com/ds/BC/BC807.pdf
 $ENDCMP
 #
+$CMP ON_Semi_MMBT2222LT1G
+D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
 $CMP ON_Semi_MMBT3904TT1G
 D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
 K NPN Transistor
@@ -24,6 +30,24 @@ K PNP Transistor
 F http://www.fairchildsemi.com/ds/BC/BC807.pdf
 $ENDCMP
 #
+$CMP ON_Semi_MMBT5087LT1G
+D 0.8A Ic, 45V Vce, PNP Transistor, SOT-23
+K PNP Transistor
+F http://www.fairchildsemi.com/ds/BC/BC807.pdf
+$ENDCMP
+#
+$CMP ON_Semi_MMBT5088LT1G
+D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
+$CMP ON_Semi_MMBT5089LT1G
+D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
 $CMP ON_Semi_SMMBT3904LT1G
 D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
 K NPN Transistor
@@ -31,6 +55,18 @@ F http://www.fairchildsemi.com/ds/BC/BC817.pdf
 $ENDCMP
 #
 $CMP ON_Semi_SMMBT3906LT1G
+D 0.8A Ic, 45V Vce, PNP Transistor, SOT-23
+K PNP Transistor
+F http://www.fairchildsemi.com/ds/BC/BC807.pdf
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT4401LT1G
+D 0.8A Ic, 45V Vce, NPN Transistor, SOT-23
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC817.pdf
+$ENDCMP
+#
+$CMP ON_Semi_SMMBT4403LT1G
 D 0.8A Ic, 45V Vce, PNP Transistor, SOT-23
 K PNP Transistor
 F http://www.fairchildsemi.com/ds/BC/BC807.pdf
