@@ -4,9 +4,9 @@ EESchema-LIBRARY Version 2.4
 # Atmel_ATtiny13A-PU
 #
 DEF Atmel_ATtiny13A-PU U 0 20 Y Y 1 F N
-F0 "U" -500 550 50 H V L BNN
-F1 "Atmel_ATtiny13A-PU" 100 -550 50 H V L TNN
-F2 "SA_Microcontrollers:Atmel_ATtiny13A-PU_DIP-8_Socketed" 0 0 50 H I C CIN
+F0 "U" -500 550 39 H V L BNB
+F1 "Atmel_ATtiny13A-PU" -500 650 30 H V L TNB
+F2 "SA_Microcontrollers:Atmel_ATtiny13A-PU_DIP-8_Socketed" 0 0 20 H I C CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  DIP*W7.62mm*
@@ -27,9 +27,9 @@ ENDDEF
 # Atmel_ATtiny85-20PU
 #
 DEF Atmel_ATtiny85-20PU U 0 20 Y Y 1 F N
-F0 "U" -500 550 50 H V L BNN
-F1 "Atmel_ATtiny85-20PU" 100 -550 50 H V L TNN
-F2 "SA_Microcontrollers:Atmel_ATtiny85-20PU_DIP-8_Socketed" 0 0 50 H I C CIN
+F0 "U" -500 550 39 H V L BNB
+F1 "Atmel_ATtiny85-20PU" -500 650 30 H V L TNB
+F2 "SA_Microcontrollers:Atmel_ATtiny85-20PU_DIP-8_Socketed" 0 0 20 H I C CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  DIP*W7.62mm*

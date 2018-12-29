@@ -36,4 +36,40 @@ $CMP Nichicon_UWT_47uF_35V
 F ~
 $ENDCMP
 #
+$CMP Wima_FKP2_100pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKP2_150pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKP2_220pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKP2_330pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKP2_470pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKP2_680pF
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
 #End Doc Library

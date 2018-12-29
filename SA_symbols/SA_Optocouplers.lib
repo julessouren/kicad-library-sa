@@ -5,8 +5,8 @@ EESchema-LIBRARY Version 2.4
 #
 DEF Toshiba_TLP222G(F) U 0 40 Y Y 1 F N
 F0 "U" -200 200 39 H V L CNB
-F1 "Toshiba_TLP222G(F)" 0 200 39 H V L CNB
-F2 "SA_Optocouplers_THT:Toshiba_TLP222G(F)_DIP-4_Socketed" 0 -200 39 H I C CIN
+F1 "Toshiba_TLP222G(F)" -200 250 20 H V L CNB
+F2 "SA_Optocouplers_THT:Toshiba_TLP222G(F)_DIP-4_Socketed" 0 -200 20 H I C CIN
 F3 "" -50 0 50 H I L CNN
 $FPLIST
  DIP*W7.62mm*
