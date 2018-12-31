@@ -5,6 +5,35 @@ D Triple Schmitt trigger inverter
 F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
 $ENDCMP
 #
+$CMP Texas_Instruments_CD40106BE
+D Hex Schmitt trigger inverter
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4013BE
+D Dual D  FlipFlop, Set & reset
+K CMOS DFF
+F http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4049UBE
+D Hex Buffer Inverter
+K CMOS BUFFER
+F http://www.intersil.com/content/dam/intersil/documents/cd40/cd4049ubms.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4053BE
+D Triple analog Multiplexer 2 to 1 line
+K CMOS MUX MUX2
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf
+$ENDCMP
+#
+$CMP Texas_Instruments_CD4069UBE
+D Hex inverter
+K CMOS NOT
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf
+$ENDCMP
+#
 $CMP Texas_Instruments_SN74LVC3G14DCTR
 D Triple Schmitt trigger inverter
 F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF

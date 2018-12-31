@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ON_Semi_2N7000TA
+D 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92
+K N-Channel MOSFET Logic-Level
+F https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf
+$ENDCMP
+#
+$CMP ON_Semi_BS170
+D 0.25A Id, 200V Vds, N-Channel MOSFET, TO-92
+K N-Channel MOSFET
+F http://www.onsemi.com/pub_link/Collateral/BS107-D.PDF
+$ENDCMP
+#
 $CMP ON_Semi_MCH6341-TL-W
 D Transistor P-MOSFET with substrate diode (general)
 K pmos p-mos p-mosfet transistor
