@@ -1,5 +1,77 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CP_0.10uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_0.22uF_50V_D5.0_H11.0_P2.0_0
+F ~
+$ENDCMP
+#
+$CMP CP_0.47uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_1.0uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_100uF_50V_D8.0_H11.5_P3.5
+F ~
+$ENDCMP
+#
+$CMP CP_10uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_2.2uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_220uF_16V_D6.3_H11.0_P2.5
+F ~
+$ENDCMP
+#
+$CMP CP_220uF_25V_D8.0_H11.5_P3.5
+F ~
+$ENDCMP
+#
+$CMP CP_220uF_50V_D10.0_H16.0_P5.0
+F ~
+$ENDCMP
+#
+$CMP CP_22uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_3.3uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_330uF_50V_D10.0_H16.0_P5.0
+F ~
+$ENDCMP
+#
+$CMP CP_33uF_50V_D6.3_H11.0_P2.5
+F ~
+$ENDCMP
+#
+$CMP CP_4.7uF_50V_D5.0_H11.0_P2.0
+F ~
+$ENDCMP
+#
+$CMP CP_470uF_16V_D8.0_H11.5_P3.5
+F ~
+$ENDCMP
+#
+$CMP CP_470uF_35V_D10.0_H16.0_P5.0
+F ~
+$ENDCMP
+#
+$CMP CP_47uF_50V_D6.3_H11.0_P2.5
+F ~
+$ENDCMP
+#
 $CMP Nichicon_UWT_1.0uF_50V
 F ~
 $ENDCMP
@@ -36,37 +108,145 @@ $CMP Nichicon_UWT_47uF_35V
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_100pF
+$CMP Wima_FKP2_100pF_630V
 D Unpolarized capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_150pF
+$CMP Wima_FKP2_150pF_630V
 D Unpolarized capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_220pF
+$CMP Wima_FKP2_220pF_630V
 D Unpolarized capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_330pF
+$CMP Wima_FKP2_330pF_630V
 D Unpolarized capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_470pF
+$CMP Wima_FKP2_470pF_630V
 D Unpolarized capacitor
 K cap capacitor
 F ~
 $ENDCMP
 #
-$CMP Wima_FKP2_680pF
+$CMP Wima_FKP2_680pF_630V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_1.0nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_1.5nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_10nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_2.2nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_3.3nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_4.7nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_FKS2_6.8nF_400V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_1.0uF_63V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_100nF_250V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_100nF_63V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_15nF_250V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_2.2uF_63V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_220nF_63V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_22nF_250V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_33nF_250V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_470nF_63V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_47nF_250V
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Wima_MKS2_68nF_250V
 D Unpolarized capacitor
 K cap capacitor
 F ~
