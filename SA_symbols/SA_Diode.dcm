@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ON_Semi_1N4001
+D Diode
+K diode
+F ~
+$ENDCMP
+#
 $CMP ON_Semi_1N4148WS
 D Diode
 K diode
