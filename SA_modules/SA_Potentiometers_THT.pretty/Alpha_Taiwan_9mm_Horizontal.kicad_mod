@@ -1,4 +1,4 @@
-(module Alpha_Taiwan_9mm_Horizontal (layer F.Cu) (tedit 5C2A48B8)
+(module Alpha_Taiwan_9mm_Horizontal (layer F.Cu) (tedit 5C2BB04F)
   (fp_text reference REF** (at 0 5.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -12,7 +12,7 @@
   (pad 2 thru_hole roundrect (at 0 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 3 thru_hole roundrect (at 2.5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 1 thru_hole roundrect (at -2.5 0) (size 1.5 2.5) (drill 1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
-  (model ${SA_LIB_3DSHAPES}/Packages/Alpha_Taiwan_9mm_Horizontal.step
+  (model ${SA_LIB_3DSHAPES}/Alpha_Taiwan_9mm_Horizontal/Alpha_Taiwan_9mm_Horizontal.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -10,6 +10,11 @@ D Power flag, VCC
 K power-flag
 $ENDCMP
 #
+$CMP +5.0VDC
+D Power flag, VCC
+K power-flag
+$ENDCMP
+#
 $CMP +9VDC
 D Power flag, VCC
 K power-flag
