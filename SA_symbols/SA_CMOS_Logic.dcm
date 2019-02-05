@@ -5,7 +5,21 @@ D Triple Schmitt trigger inverter
 F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
 $ENDCMP
 #
+$CMP ROHM_Semi_BU4S584G2-TR
+D Single schmitt trigger inverter
+$ENDCMP
+#
 $CMP Texas_Instruments_CD40106BE
+D Hex Schmitt trigger inverter
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_CD40106BM
+D Hex Schmitt trigger inverter
+F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
+$ENDCMP
+#
+$CMP Texas_Instruments_CD40106BPWR
 D Hex Schmitt trigger inverter
 F https://www.onsemi.com/pub/Collateral/NL37WZ14-D.PDF
 $ENDCMP
