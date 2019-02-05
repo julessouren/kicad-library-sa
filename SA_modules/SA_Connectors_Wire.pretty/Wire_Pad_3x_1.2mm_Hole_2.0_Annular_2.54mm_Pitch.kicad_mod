@@ -1,0 +1,11 @@
+(module Wire_Pad_3x_1.2mm_Hole_2.0_Annular_2.54mm_Pitch (layer F.Cu) (tedit 5C595A9F)
+  (fp_text reference REF** (at 0 1.27) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.05)))
+  )
+  (fp_text value Wire_Pad_3x_1.2mm_Hole_2.0mm_Annular_2.54mm_Pitch (at 0 -1.27) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.05)))
+  )
+  (pad 1 thru_hole circle (at -2.54 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 2.54 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+)

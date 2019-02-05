@@ -1,10 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP +18VDC
-D Power flag, VCC
-K power-flag
-$ENDCMP
-#
 $CMP +4.5VDC
 D Power flag, VCC
 K power-flag
@@ -15,7 +10,7 @@ D Power flag, VCC
 K power-flag
 $ENDCMP
 #
-$CMP +9VDC
+$CMP +9.0VDC
 D Power flag, VCC
 K power-flag
 $ENDCMP

@@ -1,0 +1,93 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2904
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm358.pdf
+$ENDCMP
+#
+$CMP LM358
+D Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/lm2904-n.pdf
+$ENDCMP
+#
+$CMP NE5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP NJM4558
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4558_NJM4559_E.pdf
+$ENDCMP
+#
+$CMP NJM4580
+D Dual Operational Amplifier, DIP-8/DMP-8/SIP-8/MSOP-8/SOP-8/SSOP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM4580_E.pdf
+$ENDCMP
+#
+$CMP NJM5532
+D Dual Low-Noise Operational Amplifier, DIP-8/DMP-8/SIP-8
+K dual opamp
+F http://www.njr.com/semicon/PDF/NJM5532_E.pdf
+$ENDCMP
+#
+$CMP OP275
+D Dual Bipolar/JFET, Audio Operational Amplifier, DIP-8/SOIC-8
+K dual opamp
+F http://www.analog.com/media/en/technical-documentation/data-sheets/OP275.pdf
+$ENDCMP
+#
+$CMP OPA2134
+D Dual SoundPlus High Performance Audio Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa134.pdf
+$ENDCMP
+#
+$CMP OPA2340
+D Dual Single-Supply, Rail-to-Rail Operational Amplifiers, MicroAmplifier Series, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/opa4340.pdf
+$ENDCMP
+#
+$CMP RC4558
+D Dual General Purpose, Operational Amplifier, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4558.pdf
+$ENDCMP
+#
+$CMP RC4580
+D Dual Audio Operational Amplifier, SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/rc4580.pdf
+$ENDCMP
+#
+$CMP SA5532
+D Dual Low-Noise Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/ne5532.pdf
+$ENDCMP
+#
+$CMP TL062
+D Dual Low-Power JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl061.pdf
+$ENDCMP
+#
+$CMP TL072
+D Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL082
+D Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+#End Doc Library

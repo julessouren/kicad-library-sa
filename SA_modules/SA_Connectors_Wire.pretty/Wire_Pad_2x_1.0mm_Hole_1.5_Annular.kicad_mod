@@ -1,0 +1,10 @@
+(module Wire_Pad_2x_1.0mm_Hole_1.5_Annular (layer F.Cu) (tedit 5C5843AC)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.05)))
+  )
+  (fp_text value Wire_Pad_2x_1.0mm_Hole_1.5mm_Annular (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 0.5 0.5) (thickness 0.05)))
+  )
+  (pad 1 thru_hole circle (at -1.27 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 1.27 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
+)

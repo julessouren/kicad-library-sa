@@ -144,4 +144,10 @@ K lamp
 F ~
 $ENDCMP
 #
+$CMP TestPoint_Flag
+D test point (alternative flag-style design)
+K test point tp
+F ~
+$ENDCMP
+#
 #End Doc Library

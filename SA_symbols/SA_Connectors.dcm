@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Lumberg_1614_09
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
 $CMP Lumberg_NEB_J_21_C
 D DC Barrel Jack with an internal switch
 K DC power barrel jack connector
@@ -7,6 +13,12 @@ F ~
 $ENDCMP
 #
 $CMP Neutrik_NRJ6HM-1
+D Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)
+K audio jack receptacle stereo headphones phones TRS connector
+F ~
+$ENDCMP
+#
+$CMP Neutrik_NRJ6HM-1_NoChassis
 D Audio Jack, 3 Poles (Stereo / TRS), Grounded Sleeve, Switched Poles (Normalling)
 K audio jack receptacle stereo headphones phones TRS connector
 F ~
