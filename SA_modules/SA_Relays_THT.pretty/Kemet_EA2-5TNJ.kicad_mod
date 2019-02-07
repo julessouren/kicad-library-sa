@@ -1,4 +1,4 @@
-(module Kemet_EA2-5TNJ (layer F.Cu) (tedit 5C2536A4)
+(module Kemet_EA2-5TNJ (layer F.Cu) (tedit 5C5BD836)
   (fp_text reference REF** (at 0 -7.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -24,4 +24,9 @@
   (pad 8 thru_hole roundrect (at 3.827711 0.002797) (size 1.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 9 thru_hole roundrect (at 3.827711 -2.537203) (size 1.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
   (pad 10 thru_hole roundrect (at 3.827711 -5.077203) (size 1.4 1.6) (drill 0.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (model ${SA_LIB_3DSHAPES}/Kemet_EA2-5TNJ/Kemet_EA2-5TNJ.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
