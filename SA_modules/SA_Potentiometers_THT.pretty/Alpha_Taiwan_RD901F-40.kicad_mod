@@ -1,4 +1,4 @@
-(module Alpha_Taiwan_RD901F-40 (layer F.Cu) (tedit 5C7A9506)
+(module Alpha_Taiwan_RD901F-40 (layer F.Cu) (tedit 5C9006AC)
   (fp_text reference REF** (at 0 -5.45) (layer F.Fab)
     (effects (font (size 0.5 0.5) (thickness 0.05)))
   )
@@ -24,9 +24,9 @@
   (fp_line (start 3.5 7.5) (end 3.5 6.5) (layer F.Fab) (width 0.1))
   (pad MH thru_hole circle (at -4.8 0) (size 3 3) (drill 2) (layers *.Cu *.Mask))
   (pad MH thru_hole circle (at 4.8 0) (size 3 3) (drill 2) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at 0 7.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 2.5 7.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (pad 1 thru_hole circle (at -2.5 7.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 0 7.5) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 2.5 7.5) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -2.5 7.5) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
   (model ${SA_LIB_3DSHAPES}/Alpha_Taiwan_RD901F-40/Alpha_Taiwan_RD901F-40.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
